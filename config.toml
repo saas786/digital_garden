@@ -5,7 +5,6 @@ pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
 
-custom_css = ["css/bootstrap.min.css"]
 custom_js = ["js/boostrap.min.js"]
 
 ignoreFiles = [
