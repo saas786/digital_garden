@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4bf71084ecaf47f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "10331b2b4ba5e145",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "preview changes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "682c58011f226fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "91bd35ca342f77b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e8387ac33d9f0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "66d410ee4799e8d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0f1b25325bb661f",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaad5078b59f82de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aea881ef94338021",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "preview changes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "10331b2b4ba5e145",
+  "lastOpenFiles": [
+    "preview changes.md",
+    "obsidian.md",
+    "hosting.md",
+    "config.md",
+    "ignore notes.md",
+    "editing.md",
+    "_index.md",
+    "images/obsidian-settings.png",
+    "images/github-pages.png",
+    "images/github-actions.png"
+  ]
+}
