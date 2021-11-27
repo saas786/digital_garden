@@ -1,6 +1,6 @@
-baseURL = "https://deemonsecurity.com/digital_garden/"
+baseURL = "https://deemonsecurity.com/"
 languageCode = "en-us"
-googleAnalytics = ""
+googleAnalytics = "G-8X9S6TVTZ8"
 pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
