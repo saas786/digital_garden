@@ -8,15 +8,16 @@
     </div>
 </div>
 
-<!-- Contact Info -->
-<div id="contact_buttons">
-    <footer>
-        <p>Made by {{ $.Site.Data.config.name }} using <a href="https://github.com/jackyzha0/quartz">Quartz</a>, © {{ dateFormat "2006" now }}</p>
-        {{ if not .IsHome }}
-        <a href="/">Home</a>
-        {{end}}
-        {{- range $.Site.Data.config.links -}}
-        <a href="{{.link}}">{{.link_name}}</a>
-        {{- end -}}
-    </footer>
-</div>
+<footer>
+    <div id="footer">
+      <div class="container">
+        <p class="text-muted">&copy; All rights reserved.</p>
+      </div>
+    </div>
+  
+    <button class="btn-toggle"><i class="fa fa-sun-o"></i></button>
+  
+  </footer>
+<div class="footer"></div>
+
+{{ partial "js" . }}  
