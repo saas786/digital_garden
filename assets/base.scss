@@ -6,6 +6,21 @@
   --lt-colours-gray: var(--outlinegray) !important;
 }
 
+html, body {
+  border-top: 3px solid var(--primary);
+  height: 100%;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+/* GITHUB CORNER */
+.github-corner {
+  fill: var(--primary);
+  color: var(--dark);
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
 h1, h2, h3, h4, ol, ul, thead {
   font-family: Inter;
   color: var(--dark);
@@ -13,6 +28,7 @@ h1, h2, h3, h4, ol, ul, thead {
   margin: revert;
   padding: revert;
 }
+
 
 p, ul, text {
   font-family: 'Source Sans Pro', sans-serif;
@@ -67,7 +83,6 @@ footer {
   margin-top: 4em;
   text-align: center;
 }
-
 
 table {
   width: 100%;

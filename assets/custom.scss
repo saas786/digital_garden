@@ -1,24 +1,244 @@
+@import url("https://fonts.googleapis.com/css?family=Muli");
+
 // Add your own CSS here!
 :root {
-  --light: #faf8f8;
-  --dark: #141021;
-  --secondary: #284b63;
-  --tertiary: #84a59d;
+  --light: #ffffff;
+  --dark: #1A1A1D;
+  --secondary: #950740;
+  --tertiary: #6F2232;
   --visited: #afbfc9;
-  --primary: #f28482;
+  --primary: #C3073F;
   --gray: #4e4e4e;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
 }
 
 [saved-theme="dark"] {
-  --light: #1e1e21 !important;
-  --dark: #fbfffe !important;
-  --secondary: #5b778a !important;
+  --light: #1A1A1D !important;
+  --dark: #ffffff !important;
+  --secondary: #950740 !important;
   --visited: #4a575e !important;
-  --tertiary: #84a59d !important;
-  --primary: #f58382 !important;
+  --tertiary: #6F2232 !important;
+  --primary: #C3073F !important;
   --gray: #d4d4d4 !important;
   --lightgray: #292633 !important;
   --outlinegray: #343434 !important;
 }
+
+#footer-bar {
+  border-bottom: 5px solid var(--primary);
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+/* LIGHT MODE */
+html,
+body {
+  border-top: 3px solid var(--primary);
+  height: 100%;
+  font-family: 'Fira Sans', sans-serif;
+}
+
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  padding-bottom: 50px;
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -65px;
+}
+
+/* GITHUB CORNER */
+.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
+
+
+/* CERTIFICATIONS */
+.cert-wrapper {
+  filter: drop-shadow(-1px 6px 3px rgba(50, 50, 0, 0.2));
+}
+
+.cert {
+  width: 6%;
+  height: auto;
+  clip-path: circle(46%);
+}
+
+/* MOBILE DROP DOWN MENU -- HIDE FOR DESKTOP */
+.navbar-default .navbar-collapse .content-mobile {
+  display: none;
+}
+
+/* Custom page CSS */
+.container {
+  width: auto;
+  max-width: 800px;
+  text-align: center;
+}
+
+.container .text-muted {
+  margin: 20px 0;
+}
+
+a {
+  color: var(--primary);
+}
+
+a:hover {
+  color: var(--secondary);
+}
+
+.container p img,
+.img-responsive {
+  display: block;
+  height: auto;
+  margin: 2rem auto;
+  max-width: 100%;
+}
+
+.panel-default h4 {
+  text-align: left;
+  line-height: 24px;
+  font-size: 22px;
+}
+
+.panel-default h5 {
+  text-align: left;
+  line-height: 30px;
+  font-size: 18px;
+}
+
+.panel-default h6 {
+  font-size: 15px;
+}
+
+.panel-default h4 a,
+h5 a {
+  color: var(--primary);
+}
+
+.panel-default h4 a:hover,
+h5 a:hover {
+  color: var(--secondary);
+}
+
+.panel {
+  border-style: none;
+}
+
+.panel-body {
+  padding-top: -10px;
+  text-align: left;
+}
+
+.social-links {
+  display: block;
+  margin: 0 auto;
+  margin-top: 40px;
+  padding: 0px;
+  width: 100%;
+  text-align: center;
+  animation: fade 1s ease 1s both;
+}
+
+.social-links li {
+  display: inline-block;
+  padding: 5px;
+  padding-top: 0;
+  text-align: center;
+}
+
+.social-links li a {
+  font-size: 20px;
+  color: var(--dark);
+  padding: 10px;
+  padding-bottom: 4px;
+  transition: all .4s ease;
+}
+
+.social-links li a:hover {
+  color: var(--secondary);
+}
+
+.avatar {
+  padding-top: 5%;
+}
+
+.blog-post {
+  padding-top: 15px;
+}
+
+.blog-title {
+  padding-top: 2px;
+}
+
+.label {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.related-posts h4 {
+  text-align: center;
+}
+
+.page-not-found {
+  padding-top: 20%;
+}
+
+
+/* FOOTER */
+.footer {
+  text-decoration: none !important;
+}
+
+.text-muted {
+  color: var(--dark);
+}
+
+div.footer {
+  border-bottom: 5px solid var(--primary);
+}
+
+.container .panel-default {
+  background-color: var(--light);
+  border-color: var(--light);
+}
+
+#navbar>ul>li>a:hover {
+  color: var(--secondary);
+}
+
+#wrap>nav>div>div.navbar-header>a>i:hover {
+  color: var(--secondary);
+}
+
+.wrapper {
+  min-height: calc(100vh - 70px);
+}
+
+footer {
+  height: 100px;
+}
+
+div.go-back > a > img {
+  position: fixed;
+  height: 50px;
+  width: auto;
+  bottom: 30px;
+  left: 30px;
+  z-index: 3;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media all and (max-width: 762px) {
+  div.go-back > a > img {
+    height: 30px;
+  }
+  
+  .github-corner {
+    display: none;
+  }
+} 
