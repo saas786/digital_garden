@@ -1,18 +1,17 @@
 ---
-title: 🪴 Quartz v2.1
+title: "Root"
 ---
-Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
-1. Extremely fast full-text search by pressing `/`
-2. Beautiful, out-of-the-box website creation and deployment
-3. Display for backlinks of each note
-4. A customizable graph view
-5. Endlessly powerful page and theme customization
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+Good day, and welcome to my digital garden. 
 
-Not convinced yet? Look at some [community digital gardens](moc/showcase) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with!
+A digital garden is a mix of a wiki, blog, and notes. The concept of a digital garden is that, unlike a blog, nothing is timestamped or finished, all portions of this are evergreen and are updated frequently. There is no set start or end, you can enter at any portion of this and leave when you wish.
 
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
+If you want help navigating this site, there is a node graph at the bottom right and a list of backlinks on the bottom left.
+
+There are a few subjects I take notes about frequently:
+- [ security ](notes/security)
+- [ information technology ](notes/information-technology)
+- [ programming ](notes/programming)
+- [ sports ](notes/sports.md)
+
+I hope you have fun! You can leave any issues you have with this project on the GitHub repository found [here](https://github.com/deemonsecurity/digital_garden).

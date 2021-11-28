@@ -7,8 +7,8 @@
     {{partial "darkmode.html" .}}
     <div class="centered">
         <h1>404.</h1>
-        <h3>Hey! You look a little lost. This page doesn't exist (or may be private).</h3>
-        <a href="/">↳ Let's get you home.</a>
+        <h3>This page hasn't been created yet!</h3>
+        <a href="{{if .Prev}}{{.Prev.Permalink}}{{else}}/{{end}}">↳ Let's get you home.</a>
     </div>
 </div>
 </body>
