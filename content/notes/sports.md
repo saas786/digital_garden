@@ -4,7 +4,7 @@ title: "Sports"
 
 > We like sports and we don't care who knows
 
-# [Formula 1](notes/motor-racing/F1/formula1)
+# [Formula 1](notes/motor-racing/F1)
 
 # [Formula 2](notes/formula2)
 

@@ -2,7 +2,7 @@
 title: "Root"
 ---
 
-Good day, and welcome to my digital garden. 
+Good day and welcome to my digital garden. 
 
 A digital garden is a mix of a wiki, blog, and notes. The concept of a digital garden is that, unlike a blog, nothing is timestamped or finished, all portions of this are evergreen and are updated frequently. There is no set start or end, you can enter at any portion of this and leave when you wish.
 

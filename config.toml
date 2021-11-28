@@ -1,4 +1,4 @@
-baseURL = "https://deemonsecurity.com"
+baseURL = "https://notes.deemonsecurity.com"
 languageCode = "en-us"
 googleAnalytics = "G-8X9S6TVTZ8"
 pygmentsUseClasses = true
