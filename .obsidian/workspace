@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "5cca3c070c74981c",
+    "id": "25ff5841b172fc0e",
     "type": "split",
     "children": [
       {
-        "id": "e7759f480806a891",
+        "id": "38be7c9d339c0cd5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/notes/_index.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -57,7 +54,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/notes/_index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -71,8 +67,11 @@
     ],
     "currentTab": 0
   },
-  "active": "e7759f480806a891",
+  "active": "38be7c9d339c0cd5",
   "lastOpenFiles": [
+    "content/notes/security/Informationsecurity.md",
+    "content/notes/security/list.md",
+    "content/_index.md",
     "content/notes/_index.md"
   ]
 }

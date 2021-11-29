@@ -14,13 +14,23 @@
         <!-- {{partial "darkmode.html" .}} -->
     </header>
     <article>
-        {{if $.Site.Data.config.enableToc}}
-        <aside class="mainTOC">
-            <h3>Table of Contents</h3>
-            {{ .TableOfContents }}
-        </aside>
+        {{$wikilinks := .Content | findRE "\\[\\[([^/]+)\\]\\]" }}
+        {{$temp_content := $.Content}}
+        {{range $wikilinks}} 
+            {{$match := "0"}}
+            {{$page_title := . | strings.TrimPrefix "[[" | strings.TrimSuffix "]]" }}
+            {{$human_title := humanize $page_title}}
+            {{$lower_title := lower $page_title}}
+            {{$title_array := (slice $page_title $human_title $lower_title)}}
+            {{range first 1 (where site.Pages "Params.title" "in" $title_array)}}
+                {{$temp_content = ($temp_content | replaceRE (printf "\\[\\[%s\\]\\]" $page_title) (printf "<a href=\"%s\">%s</a>" .Permalink $page_title) )}}
+                {{$match = "1"}}
+            {{end}}
+            {{if ne $match "1"}}
+                {{$temp_content = ($temp_content | replaceRE (printf "\\[\\[%s\\]\\]" $page_title) (printf "%s - Not yet linked" $page_title ))}}
+            {{end}}
         {{end}}
-        {{- .Content -}}
+        {{$temp_content  | safeHTML}}
     </article>
     {{partial "footer.html" .}}
 </div>

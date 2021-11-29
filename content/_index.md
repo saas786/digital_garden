@@ -9,9 +9,9 @@ A digital garden is a mix of a wiki, blog, and notes. The concept of a digital g
 If you want help navigating this site, there is a node graph at the bottom right and a list of backlinks on the bottom left.
 
 There are a few subjects I take notes about frequently:
-- [ security ](notes/security/list.md)
-- [ information technology ](notes/information-technology/list.md)
-- [ programming ](notes/programming/list.md)
-- [ sports ](notes/sports.md)
+- [[security]]
+- [[information technology]]
+- [[programming]]
+- [[sports]]
 
 I hope you have fun! You can leave any issues you have with this project on the GitHub repository found [here](https://github.com/deemonsecurity/digital_garden).

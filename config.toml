@@ -4,6 +4,7 @@ googleAnalytics = "G-8X9S6TVTZ8"
 pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
+enableTOC = false
 
 custom_js = ["js/boostrap.min.js"]
 
