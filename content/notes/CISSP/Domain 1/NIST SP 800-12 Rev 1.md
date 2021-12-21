@@ -10,4 +10,8 @@ title: "NIST SP 800-12 Rev 1"
 - Requires a comprehensive and integrated approach 
 	- Interdependencies of security controls
 	- Assessed and monitored regularly
+<<<<<<< HEAD
 - Is constrained by societal and cultural factors
+=======
+- Is constrained by societal and cultural factors
+>>>>>>> d4dba664f613f41a82d36ddbf28a834b6ce7c99b
