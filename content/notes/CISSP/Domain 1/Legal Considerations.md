@@ -7,10 +7,10 @@ plugin-prettier: true
 
 # Legal Considerations
 
-- [Criminal Law](Security-Laws/Criminal-Law)
-- [Civil Law](Security-Laws/Civil-Law)
-- [Regulatory Law](Security-Laws/Administrative-Law)
-- [Intellectual Property](Intellectual-Property)
+- [Criminal Law](notes/CISSP/Domain%201/Security%20Laws/Criminal%20Law)
+- [Civil Law](notes/CISSP/Domain%201/Security%20Laws/Civil%20Law)
+- [Regulatory Law](notes/CISSP/Domain%201/Security%20Laws/Administrative%20Law)
+- [Intellectual Property](notes/CISSP/Domain%201/Intellectual%20Property)
 
 created: 2021-12-21 11:33
 modified: <%+ tp.file.last_modified_date() %>

@@ -7,15 +7,15 @@ plugin-prettier: true
 
 # Roles and Responsibilities
 
-[Senior Management](Senior-Management)
-[Steering Committee](Steering-Committee)
+[Senior Management](notes/CISSP/Domain%201/Information%20Security%20Program/Roles%20and%20Responsibilities/Senior%20Management)
+[Steering Committee](notes/CISSP/Domain%201/Information%20Security%20Program/Roles%20and%20Responsibilities/Steering%20Committee)
 [Chief Information Officer (CIO)](CIO)))
 [Chief Information Security Officer (CISO)](CISO)))
-[Information Security Manager](Information-Security-Manager)
-[Business Manager](Business-Manager)
-[Security Practitioner](Security-Practitioner)
-[Auditor](Auditor)
-[Security Trainer](Security-Trainer)
+[Information Security Manager](notes/CISSP/Domain%201/Information%20Security%20Program/Roles%20and%20Responsibilities/Information%20Security%20Manager)
+[Business Manager](notes/CISSP/Domain%201/Information%20Security%20Program/Roles%20and%20Responsibilities/Business%20Manager)
+[Security Practitioner](notes/CISSP/Domain%201/Information%20Security%20Program/Roles%20and%20Responsibilities/Security%20Practitioner)
+[Auditor](notes/CISSP/Domain%201/Information%20Security%20Program/Roles%20and%20Responsibilities/Auditor)
+[Security Trainer](notes/CISSP/Domain%201/Information%20Security%20Program/Roles%20and%20Responsibilities/Security%20Trainer)
 
 
 created: 2021-12-14 08:54

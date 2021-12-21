@@ -12,7 +12,7 @@ plugin-prettier: true
 	- Controls can become less effective
 	- The operational environment may change and new threats, technologies and vulnerabilities may emerge.
 
-Tools used to determine if goals are met are [Key Risk Indicators](Key-Risk-Indicators).
+Tools used to determine if goals are met are [Key Risk Indicators](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Lifecycle%20Steps/Key%20Risk%20Indicators).
 
 
 

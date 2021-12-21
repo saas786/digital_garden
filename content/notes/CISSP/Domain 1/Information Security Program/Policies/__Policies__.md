@@ -9,8 +9,8 @@ plugin-prettier: true
 
 ### Types of Policies
 - Corporate Policy
-- [System Specific Policy](System-Specific)
-- [Issue Specific Policy](Issue-Specific)
+- [System Specific Policy](notes/CISSP/Domain%201/Information%20Security%20Program/Policies/System%20Specific)
+- [Issue Specific Policy](notes/CISSP/Domain%201/Information%20Security%20Program/Policies/Issue%20Specific)
 
 
 created: 2021-12-10 09:14

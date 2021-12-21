@@ -7,9 +7,9 @@ plugin-prettier: true
 
 # CIA
 
-[Confidentiality](Confidentiality)
-[Integrity](Integrity)
-[Availability](Availability)
+[Confidentiality](notes/CISSP/Domain%201/Triad/Confidentiality)
+[Integrity](notes/CISSP/Domain%201/Triad/Integrity)
+[Availability](notes/CISSP/Domain%201/Triad/Availability)
 
 created: 2021-12-14 20:57
 modified: <%+ tp.file.last_modified_date() %>

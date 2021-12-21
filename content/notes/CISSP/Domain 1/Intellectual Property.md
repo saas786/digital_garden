@@ -13,9 +13,9 @@ plugin-prettier: true
 - Main international organization run by the UN is the World Intellectual Property Organization (WIPO)
 - Licensing is the most prevalent violation, followed by plagiarism, piracy and corporate espionage
 
-[Copyright](Intellectual-Property-Laws/Copyright)
-[Trademark](Intellectual-Property-Laws/Trademark)
-[Patent](Intellectual-Property-Laws/Patent)
+[Copyright](notes/CISSP/Domain%201/Intellectual%20Property%20Laws/Copyright)
+[Trademark](notes/CISSP/Domain%201/Intellectual%20Property%20Laws/Trademark)
+[Patent](notes/CISSP/Domain%201/Intellectual%20Property%20Laws/Patent)
 
 
 created: 2021-12-21 11:47

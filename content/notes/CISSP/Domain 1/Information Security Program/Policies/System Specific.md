@@ -7,9 +7,9 @@ plugin-prettier: true
 
 # System Specific
 
-- Web Servers must be configured according to a consistent image with the [baseline](../Baselines) configuration approved by Director of IT and Director of Marketing
+- Web Servers must be configured according to a consistent image with the [baseline](notes/CISSP/Domain%201/Information%20Security%20Program/Baselines) configuration approved by Director of IT and Director of Marketing
 - Multifactor authentication must always be used when accessing domain controllers
-- Client systems must be validated periodically against a [baseline](../Baselines) image
+- Client systems must be validated periodically against a [baseline](notes/CISSP/Domain%201/Information%20Security%20Program/Baselines) image
 - Etc
 
 created: 2021-12-14 20:43

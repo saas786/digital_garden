@@ -1,4 +1,4 @@
-[The CIA Triad](Triad/__CIA__)
+[The CIA Triad](notes/CISSP/Domain%201/Triad/__CIA__)
 
 > Consider that security directly affects performance
 
@@ -17,4 +17,4 @@
 -Technology
 	- The success of the technology is driven by the people and processes of the organization.
 
-[NIST SP 800-12 Rev 1](NIST-SP-800-12-Rev-1)
+[NIST SP 800-12 Rev 1](notes/CISSP/Domain%201/NIST%20SP%20800-12%20Rev%201)

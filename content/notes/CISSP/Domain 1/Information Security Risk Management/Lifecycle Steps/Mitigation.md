@@ -9,8 +9,8 @@ plugin-prettier: true
 
 ### Risk Reduction/Avoidance
 
-- [Risk](../Definitions/Risk) reduction means the action is taken to lessen the frequency and/or impact of a risk.
-	- May require the use of several [controls](../Definitions/Control) until it reaches levels of risk acceptance or risk tolerance.
+- [Risk](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Definitions/Risk) reduction means the action is taken to lessen the frequency and/or impact of a risk.
+	- May require the use of several [controls](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Definitions/Control) until it reaches levels of risk acceptance or risk tolerance.
 
 - Examples of risk mitigation:
 	- Strengthening overall risk management practices, such as implementing sufficiently mature risk management processes.

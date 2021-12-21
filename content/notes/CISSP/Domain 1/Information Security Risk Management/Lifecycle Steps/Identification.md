@@ -16,12 +16,12 @@ plugin-prettier: true
 	- Good communication and transparency helps us make risk-aware business decisions
 
 ### Risk Identification
-- [AV](../Definitions/Asset-Value) \* [Threat](../Definitions/Threat) \* [Vulnerability](../Definitions/Vulnerability) = [Risk](../Definitions/Risk)
-- This may also appear as [AV](../Definitions/Asset-Value) \* [Threat](../Definitions/Threat) \* [Vulnerability](../Definitions/Vulnerability)
+- [AV](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Definitions/Asset%20Value) \* [Threat](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Definitions/Threat) \* [Vulnerability](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Definitions/Vulnerability) = [Risk](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Definitions/Risk)
+- This may also appear as [AV](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Definitions/Asset%20Value) \* [Threat](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Definitions/Threat) \* [Vulnerability](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Definitions/Vulnerability)
 - At this stage, risks are ONLY being identified
 - Often this is the step where a risk register begins to be populated
 
-![Risk Register](../../../Assets/img/Risk-Register.png)
+![Risk Register](notes/CISSP/Assets/img/Risk%20Register.png)
 
 ### Threats and Vulnerabilities
 

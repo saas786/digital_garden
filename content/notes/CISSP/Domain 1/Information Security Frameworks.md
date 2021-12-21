@@ -10,10 +10,10 @@ tags: [Domain1]
 - Provide unification and standardization of the behaviors and procedures that the business wishes to promote 
 - Generic enough to be used across various industries
 
-[ISO 27001](Information-Security-Frameworks/ISO-27001)
-[CSF](Information-Security-Frameworks/CSF)
-[GDPR](Information-Security-Frameworks/GDPR)
-[CMMI](Information-Security-Frameworks/CMMI)
+[ISO 27001](notes/CISSP/Domain%201/Information%20Security%20Frameworks/ISO%2027001)
+[CSF](notes/CISSP/Domain%201/Information%20Security%20Frameworks/CSF)
+[GDPR](notes/CISSP/Domain%201/Information%20Security%20Frameworks/GDPR)
+[CMMI](notes/CISSP/Domain%201/Information%20Security%20Frameworks/CMMI)
 
 created: 2021-12-09 10:34
 modified: <%+ tp.file.last_modified_date() %>

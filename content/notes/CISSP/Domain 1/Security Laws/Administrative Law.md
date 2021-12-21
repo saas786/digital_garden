@@ -10,7 +10,7 @@ plugin-prettier: true
 - Defines standards of performance and regulates conduct for specific industries
 	- Banking (Basel II)
 	- Energy (EPAct) of 2005
-	- Health Care([HIPAA (Health Insurance Portability and Accountability Act)](Health-Insurance-Portability-and-Accountability-Act))))
+	- Health Care([HIPAA (Health Insurance Portability and Accountability Act)](Health%20Insurance%20Portability%20and%20Accountability%20Act))))
 - Burden of Proof is "More likely than not"
 - Penalties consist of financial or imprisonment
 

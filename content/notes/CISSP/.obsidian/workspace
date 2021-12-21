@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Domain 1/__Domain 1__.md",
+            "file": "__CISSP__.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain 1/__Domain 1__.md",
+                "file": "__CISSP__.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "7a7ffaed3f9d9541",
   "lastOpenFiles": [
-    "Domain 1/__Domain 1__.md",
-    "Domain 1/Intellectual Property Laws/Copyright.md",
     "__CISSP__.md",
-    "Domain 1/NIST SP 800-12 Rev 1.md",
+    "Domain 1/__Domain 1__.md",
+    "Templates/post.md",
+    "Templates/footer.md",
     "Domain 1/Information Security Controls.md",
+    "Domain 1/GRC (Governance Risk and Compliance).md",
+    "Domain 1/NIST SP 800-12 Rev 1.md",
+    "Domain 1/Intellectual Property Laws/Copyright.md",
     "Domain 1/Legal Considerations.md",
-    "Domain 1/Principles of Information Security.md",
-    "Domain 1/Intellectual Property.md",
-    "Domain 1/Information Security Frameworks.md",
-    "Domain 1/Intellectual Property Laws/Patent.md"
+    "Domain 1/Principles of Information Security.md"
   ]
 }

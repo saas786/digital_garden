@@ -3,26 +3,26 @@ title: Domain 1 - Security and Risk Management
 aliases: [Domain 1 - Security and Risk Management, Domain 1, Security and Risk Management]
 tags: [Domain1]
 plugin-prettier: true
+url: /CISSP/Domain%201
 ---
 
 # Domain 1 - Security and Risk Management
 
-- [Principles of Information Security](Principles-of-Information-Security)
-- Understanding [GRC (Governance Risk and Compliance)](Governance-Risk-and-Compliance)))
+- [Principles of Information Security](notes/CISSP/Domain%201/Principles%20of%20Information%20Security)
+- Understanding [GRC (Governance Risk and Compliance)](notes/CISSP/Domain%201/GRC%20(Governance%20Risk%20and%20Compliance))
 - Information Security Strategy and Roadmap
-- [Information Security Frameworks](Information-Security-Frameworks)
-- [Information Security Program](Information-Security-Program/__Information-Security-Program__)
-    - [Policies](Information-Security-Program/Policies/__Policies__), [Standards](Information-Security-Program/Standards), [Procedures](Information-Security-Program/Procedures), [Guidelines](Information-Security-Program/Guidelines)
-    - [Roles and Responsibilities](Information-Security-Program/Roles-and-Responsibilities/__Roles-and-Responsibilities____)
-- [Information Security Controls](Information-Security-Controls)
-- [Information Security Risk Management](Information-Security-Risk-Management/__Information-Security-Risk-Management__)
-    - [Identification](Information-Security-Risk-Management/Lifecycle-Steps/Identification)
-    - [Assessment](Information-Security-Risk-Management/Lifecycle-Steps/Assessment)
-    - [Mitigation](Information-Security-Risk-Management/Lifecycle-Steps/Mitigation)
-    - [Monitoring](Information-Security-Risk-Management/Lifecycle-Steps/Monitoring-and-Reporting)
-- [Legal Considerations](Legal-Considerations)
+- [Information Security Frameworks](notes/CISSP/Domain%201/Information%20Security%20Frameworks)
+- [Information Security Program](notes/CISSP/Domain%201/Information%20Security%20Program/__Information%20Security%20Program__)
+    - [Policies](notes/CISSP/Domain%201/Information%20Security%20Program/Policies/__Policies__), [Standards](notes/CISSP/Domain%201/Information%20Security%20Program/Standards), [Procedures](notes/CISSP/Domain%201/Information%20Security%20Program/Procedures), [Guidelines](notes/CISSP/Domain%201/Information%20Security%20Program/Guidelines)
+    - [Roles and Responsibilities](notes/CISSP/Domain%201/Information%20Security%20Program/Roles%20and%20Responsibilities/__Roles%20and%20Responsibilities____)
+- [Information Security Controls](notes/CISSP/Domain%201/Information%20Security%20Controls)
+- [Information Security Risk Management](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/__Information%20Security%20Risk%20Management__)
+    - [Identification](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Lifecycle%20Steps/Identification)
+    - [Assessment](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Lifecycle%20Steps/Assessment)
+    - [Mitigation](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Lifecycle%20Steps/Mitigation)
+    - [Monitoring](notes/CISSP/Domain%201/Information%20Security%20Risk%20Management/Lifecycle%20Steps/Monitoring%20and%20Reporting)
+- [Legal Considerations](notes/CISSP/Domain%201/Legal%20Considerations)
 - Knowledge Transfer
 
 created: 2021-12-09 09:30
 modified: <%+ tp.file.last_modified_date() %>
-

@@ -13,7 +13,7 @@ plugin-prettier: true
 - Goal is to the dollar value of a risk and use that amount to determine what the best control is for a particular asset
 - Necessary for a cost/benefit analysis
 
-![Risk Assessment Formula](../../../Assets/img/Risk-Assessment-Formula.png)
+![Risk Assessment Formula](notes/CISSP/Assets/img/Risk%20Assessment%20Formula.png)
 
 created: 2021-12-15 09:39
 modified: <%+ tp.file.last_modified_date() %>

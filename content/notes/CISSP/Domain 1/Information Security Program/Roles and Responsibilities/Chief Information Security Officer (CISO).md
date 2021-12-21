@@ -7,7 +7,7 @@ plugin-prettier: true
 
 # Chief Information Security Officer (CISO)
 
-- Responsible for the [CIA](../../Triad/__CIA__)
+- Responsible for the [CIA](notes/CISSP/Domain%201/Triad/__CIA__)
 - Usually reports to the CIO
 - Conduct risk assessments
 - Program management
