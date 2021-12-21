@@ -16,12 +16,12 @@ plugin-prettier: true
 	- Good communication and transparency helps us make risk-aware business decisions
 
 ### Risk Identification
-- [AV](../Definitions/Asset%20Value) \* [Threat](../Definitions/Threat) \* [Vulnerability](../Definitions/Vulnerability) = [Risk](../Definitions/Risk)
-- This may also appear as [AV](../Definitions/Asset%20Value) \* [Threat](../Definitions/Threat) \* [Vulnerability](../Definitions/Vulnerability)
+- [AV](../Definitions/Asset-Value) \* [Threat](../Definitions/Threat) \* [Vulnerability](../Definitions/Vulnerability) = [Risk](../Definitions/Risk)
+- This may also appear as [AV](../Definitions/Asset-Value) \* [Threat](../Definitions/Threat) \* [Vulnerability](../Definitions/Vulnerability)
 - At this stage, risks are ONLY being identified
 - Often this is the step where a risk register begins to be populated
 
-![Risk Register](../../../Assets/img/Risk%20Register.png)
+![Risk Register](../../../Assets/img/Risk-Register.png)
 
 ### Threats and Vulnerabilities
 

@@ -7,11 +7,11 @@ plugin-prettier: true
 
 # Assessment
 
-- Qualitative -- [Qualitative Assessment](Qualitative%20Assessment)
+- Qualitative -- [Qualitative Assessment](Qualitative-Assessment)
 	- Subjective analysis to help prioritize probability and impact of risk events
 	- May use Delphi Technique
 
-- Quantitative -- [Quantitative Assessment](Quantitative%20Assessment)
+- Quantitative -- [Quantitative Assessment](Quantitative-Assessment)
 	- Providing a dollar value to a particular risk event
 	- Much more sophisticate in nature, a quantitative analysis is much more difficult and requires a special skill set
 	- Business decisions are made on a quantitative analysis

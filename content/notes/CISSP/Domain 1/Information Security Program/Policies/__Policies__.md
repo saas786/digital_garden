@@ -9,8 +9,8 @@ plugin-prettier: true
 
 ### Types of Policies
 - Corporate Policy
-- [System Specific Policy](System%20Specific)
-- [Issue Specific Policy](Issue%20Specific)
+- [System Specific Policy](System-Specific)
+- [Issue Specific Policy](Issue-Specific)
 
 
 created: 2021-12-10 09:14

@@ -11,7 +11,7 @@ plugin-prettier: true
 - Uses terms like high, medium, low
 - Inexpensive and quick way to begin the prioritization and ranking of risks
 
-![Assessment Matrix](../../../Assets/img/Assessment%20Matrix.png)
+![Assessment Matrix](../../../Assets/img/Assessment-Matrix.png)
 
 created: 2021-12-15 09:35
 modified: <%+ tp.file.last_modified_date() %>

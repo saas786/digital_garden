@@ -8,10 +8,10 @@ plugin-prettier: true
 # Risk Management Lifecycle
 
 ### Steps
-1. [Identification](Lifecycle%20Steps/Identification)
-2. [Assessment](Lifecycle%20Steps/Assessment)
-3. [Mitigation](Lifecycle%20Steps/Mitigation)
-4. [Monitoring](Lifecycle%20Steps/Monitoring%20and%20Reporting)
+1. [Identification](Lifecycle-Steps/Identification)
+2. [Assessment](Lifecycle-Steps/Assessment)
+3. [Mitigation](Lifecycle-Steps/Mitigation)
+4. [Monitoring](Lifecycle-Steps/Monitoring-and-Reporting)
 
 created: 2021-12-15 08:40
 modified: <%+ tp.file.last_modified_date() %>

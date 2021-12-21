@@ -7,15 +7,15 @@ plugin-prettier: true
 
 # Roles and Responsibilities
 
-[Senior Management](Senior%20Management)
-[Steering Committee](Steering%20Committee)
+[Senior Management](Senior-Management)
+[Steering Committee](Steering-Committee)
 [Chief Information Officer (CIO)](CIO)))
 [Chief Information Security Officer (CISO)](CISO)))
-[Information Security Manager](Information%20Security%20Manager)
-[Business Manager](Business%20Manager)
-[Security Practitioner](Security%20Practitioner)
+[Information Security Manager](Information-Security-Manager)
+[Business Manager](Business-Manager)
+[Security Practitioner](Security-Practitioner)
 [Auditor](Auditor)
-[Security Trainer](Security%20Trainer)
+[Security Trainer](Security-Trainer)
 
 
 created: 2021-12-14 08:54

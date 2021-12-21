@@ -10,7 +10,7 @@ If you want help navigating this site, there is a node graph at the bottom right
 
 There are a few subjects I take notes about frequently:
 - [security](security)
-- [information technology](information%20technology)
+- [information technology](information-technology)
 - [programming](programming)
 - [sports](sports)
 

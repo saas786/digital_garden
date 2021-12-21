@@ -14,4 +14,4 @@ Information Security is often broken up into color coded sections:
 - [Yellow](Yellow)
 - [White](White)
 
-The creation of these color-coded teams once again comes from the military. Traditionally, in training exercises, the military will split their units into a "red cell" and "blue cell" to practice against each other. These colors became handy when INFOSEC people wanted to delineate offensive capabilities like [Penetration Testing](Penetration%20Testing) and defensive capabilities like [Incident Response](Incident%20Response)
+The creation of these color-coded teams once again comes from the military. Traditionally, in training exercises, the military will split their units into a "red cell" and "blue cell" to practice against each other. These colors became handy when INFOSEC people wanted to delineate offensive capabilities like [Penetration Testing](Penetration-Testing) and defensive capabilities like [Incident Response](Incident-Response)

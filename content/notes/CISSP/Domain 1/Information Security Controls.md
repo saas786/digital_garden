@@ -7,7 +7,7 @@ plugin-prettier: true
 
 # Information Security Controls
 
-![Security Controls Table](../Assets/img/Security%20Controls%20Table.png)
+![Security Controls Table](../Assets/img/Security-Controls-Table.png)
 
 > There are also _Compensating Controls_, control if Plan A doesn't work or Plan A isn't a 100% effective solution.
 

@@ -17,4 +17,4 @@
 -Technology
 	- The success of the technology is driven by the people and processes of the organization.
 
-[NIST SP 800-12 Rev 1](NIST%20SP%20800-12%20Rev%201)
+[NIST SP 800-12 Rev 1](NIST-SP-800-12-Rev-1)
