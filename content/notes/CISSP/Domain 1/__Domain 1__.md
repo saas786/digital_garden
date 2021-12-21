@@ -3,7 +3,6 @@ title: Domain 1 - Security and Risk Management
 aliases: [Domain 1 - Security and Risk Management, Domain 1, Security and Risk Management]
 tags: [Domain1]
 plugin-prettier: true
-url: /Domain%201
 ---
 
 # Domain 1 - Security and Risk Management
