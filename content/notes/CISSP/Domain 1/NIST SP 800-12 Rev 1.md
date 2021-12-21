@@ -1,0 +1,13 @@
+---
+title: "NIST SP 800-12 Rev 1"
+---
+
+- Support the mission of the organization
+- Is an integral element of sound management
+- Protections are implemented so as to be commensurate with risk
+- Roles and Responsibilities are made explicit
+- Responsibilities for system owners go beyond their own organization
+- Requires a comprehensive and integrated approach 
+	- Interdependencies of security controls
+	- Assessed and monitored regularly
+- Is constrained by societal and cultural factors

@@ -14,4 +14,6 @@ There are a few subjects I take notes about frequently:
 - [[programming]]
 - [[sports]]
 
+I am currently taking notes for CISSP, you can find those notes [here](./notes/CISSP/__CISSP__.md)
+
 I hope you have fun! You can leave any issues you have with this project on the GitHub repository found [here](https://github.com/deemonsecurity/digital_garden).
