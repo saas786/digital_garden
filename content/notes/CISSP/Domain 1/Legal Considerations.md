@@ -3,6 +3,7 @@ title: Legal Considerations
 aliases: [Legal Considerations, legal considerations]
 tags: [Domain1]
 plugin-prettier: true
+url: /CISSP/Domain-1/Legal-Considerations.md
 ---
 
 # Legal Considerations

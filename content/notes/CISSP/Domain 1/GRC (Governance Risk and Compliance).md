@@ -1,3 +1,10 @@
+---
+title: GRC (Governance Risk and Compliance)
+aliases: [GRC (Governance Risk and Compliance), grc (governance risk and compliance)]
+tags: [Domain1]
+plugin-prettier: true
+url: /CISSP/Domain-1/GRC-(Governance-Risk-and-Compliance).md
+---
 
 # Origin
 
@@ -20,5 +27,5 @@
 - Technology Enablement
 - Monitoring, Auditing, & Reporting
 
-created: 2021-12-09 09:44
+created: 2021-12-21 14:44
 modified: <%+ tp.file.last_modified_date() %>

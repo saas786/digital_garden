@@ -2,6 +2,7 @@
 title: CISSP Mindset
 aliases: []
 tags: []
+url: /CISSP/CISSP-Mindset.md
 ---
 
 <center>

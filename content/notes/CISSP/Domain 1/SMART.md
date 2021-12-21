@@ -3,6 +3,7 @@ title: SMART
 aliases: []
 tags: []
 plugin-prettier: true
+url: /CISSP/Domain-1/SMART.md
 ---
 
 # SMART

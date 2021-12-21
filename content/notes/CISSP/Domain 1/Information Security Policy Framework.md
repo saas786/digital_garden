@@ -3,6 +3,7 @@ title: Information Security Policy Framework
 aliases: [information security policy framework, policy framework, Policy Framework]
 tags: [Domain1]
 plugin-prettier: true
+url: /CISSP/Domain-1/Information-Security-Policy-Framework.md
 ---
 
 # Information Security Policy Framework

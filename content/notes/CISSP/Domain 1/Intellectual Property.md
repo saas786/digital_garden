@@ -3,6 +3,7 @@ title: Intellectual Property
 aliases: [Intellectual Property, intellectual property, IP]
 tags: [Domain1]
 plugin-prettier: true
+url: /CISSP/Domain-1/Intellectual-Property.md
 ---
 
 # Intellectual Property

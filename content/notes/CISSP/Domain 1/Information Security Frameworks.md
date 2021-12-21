@@ -2,6 +2,7 @@
 title: Information Security Frameworks
 aliases: [information security frameworks, Frameworks, frameworks]
 tags: [Domain1]
+url: /CISSP/Domain-1/Information-Security-Frameworks.md
 ---
 
 # Information Security Frameworks

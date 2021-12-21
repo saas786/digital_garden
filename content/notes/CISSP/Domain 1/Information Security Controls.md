@@ -3,7 +3,7 @@ title: Information Security Controls
 aliases: [Controls, controls]
 tags: [Domain1]
 plugin-prettier: true
-url: /CISSP/Domain%201/Information%20Security%20Controls
+url: /CISSP/Domain-1/Information-Security-Controls.md
 ---
 
 # Information Security Controls
