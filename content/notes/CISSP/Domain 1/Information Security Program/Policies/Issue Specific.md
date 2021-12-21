@@ -11,7 +11,7 @@ plugin-prettier: true
 - [Acceptable Use Policy](Acceptable%20Use%20Policy)
 - [Privacy](Privacy)
 - [Data/System Ownership](Data/System%20Ownership)
-- [Separation of Duties (SOD)](Separation%20of%20Duties%20(SOD))
+- [Separation of Duties (SOD)](SOD)))
 - [Mandatory Vacations](Mandatory%20Vacations)
 - [Job Rotation](Job%20Rotation)
 - [Least Privilege](Least%20Privilege)

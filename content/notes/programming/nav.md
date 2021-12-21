@@ -2,7 +2,7 @@
 title: "Programming"
 ---
 
-- [[Python]]
-- [[Powershell]]
-- [[Bash]]
-- [[Web]]
+- [Python](Python)
+- [Powershell](Powershell)
+- [Bash](Bash)
+- [Web](Web)

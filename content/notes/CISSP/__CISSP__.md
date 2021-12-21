@@ -1,3 +1,11 @@
+---
+title: CISSP
+aliases: [CISSP]
+tags: []
+plugin-prettier: true
+url: /CISSP
+---
+
 # CISSP Domains
 
 [Domain 1 - Security and Risk Management](Domain%201/__Domain%201__)

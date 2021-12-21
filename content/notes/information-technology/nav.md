@@ -2,8 +2,8 @@
 title: Information technology
 ---
 
-- [[Linux]]
-- [[Windows]]
-- [[Mac]]
-- [[BSD]]
-- [[Networking]]
+- [Linux](Linux)
+- [Windows](Windows)
+- [Mac](Mac)
+- [BSD](BSD)
+- [Networking](Networking)

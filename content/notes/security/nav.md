@@ -2,7 +2,7 @@
 title: Security
 ---
 
-- [[INFOSEC]]
-- [[PHYSEC]]
-- [[PERSEC]]
-- [[OPSEC]]
+- [INFOSEC](INFOSEC)
+- [PHYSEC](PHYSEC)
+- [PERSEC](PERSEC)
+- [OPSEC](OPSEC)

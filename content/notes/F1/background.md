@@ -10,8 +10,8 @@ The word *formula* in the name refers to the set of rules the constructors must 
 
 An F1 season consists of a series of races, known as **Grand Prix**, which take place worldwide on both purpose built and street circuits. The minimum races in a season is 8 and must take place on at least 3 continents.
 
-- [[history]]
-- [[rules]]
-- [[teams]]
-- [[drivers]]
+- [history](history)
+- [rules](rules)
+- [teams](teams)
+- [drivers](drivers)
 

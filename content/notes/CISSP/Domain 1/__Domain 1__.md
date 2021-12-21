@@ -3,12 +3,13 @@ title: Domain 1 - Security and Risk Management
 aliases: [Domain 1 - Security and Risk Management, Domain 1, Security and Risk Management]
 tags: [Domain1]
 plugin-prettier: true
+url: /Domain%201
 ---
 
 # Domain 1 - Security and Risk Management
 
 - [Principles of Information Security](Principles%20of%20Information%20Security)
-- Understanding [GRC (Governance Risk and Compliance)](GRC%20(Governance%20Risk%20and%20Compliance))
+- Understanding [GRC (Governance Risk and Compliance)](Governance%20Risk%20and%20Compliance)))
 - Information Security Strategy and Roadmap
 - [Information Security Frameworks](Information%20Security%20Frameworks)
 - [Information Security Program](Information%20Security%20Program/__Information%20Security%20Program__)

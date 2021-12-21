@@ -9,8 +9,8 @@ plugin-prettier: true
 
 [Senior Management](Senior%20Management)
 [Steering Committee](Steering%20Committee)
-[Chief Information Officer (CIO)](Chief%20Information%20Officer%20(CIO))
-[Chief Information Security Officer (CISO)](Chief%20Information%20Security%20Officer%20(CISO))
+[Chief Information Officer (CIO)](CIO)))
+[Chief Information Security Officer (CISO)](CISO)))
 [Information Security Manager](Information%20Security%20Manager)
 [Business Manager](Business%20Manager)
 [Security Practitioner](Security%20Practitioner)

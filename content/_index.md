@@ -9,11 +9,11 @@ A digital garden is a mix of a wiki, blog, and notes. The concept of a digital g
 If you want help navigating this site, there is a node graph at the bottom right and a list of backlinks on the bottom left.
 
 There are a few subjects I take notes about frequently:
-- [[security]]
-- [[information technology]]
-- [[programming]]
-- [[sports]]
+- [security](security)
+- [information technology](information%20technology)
+- [programming](programming)
+- [sports](sports)
 
-I am currently taking notes for CISSP, you can find those notes [here](./notes/CISSP/__CISSP__.md)
+I am currently taking notes for CISSP, you can find those notes [here](notes/CISSP/__CISSP__)
 
 I hope you have fun! You can leave any issues you have with this project on the GitHub repository found [here](https://github.com/deemonsecurity/digital_garden).
