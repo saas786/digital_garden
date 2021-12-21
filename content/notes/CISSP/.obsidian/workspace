@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "b8fcaf9d7080ab03",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7ffaed3f9d9541",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Domain 1/__Domain 1__.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6217ab19ca1005ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae99b69c2917179a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d090b0429b287561",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "032ed5064e63b2af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "426341f9a79cf63f",
+    "type": "split",
+    "children": [
+      {
+        "id": "296d324f89328c57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c897ed5a2f2a8cda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Domain 1/__Domain 1__.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b639d2c669e51815",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7a7ffaed3f9d9541",
+  "lastOpenFiles": [
+    "Domain 1/__Domain 1__.md",
+    "Domain 1/Intellectual Property Laws/Copyright.md",
+    "__CISSP__.md",
+    "Domain 1/NIST SP 800-12 Rev 1.md",
+    "Domain 1/Information Security Controls.md",
+    "Domain 1/Legal Considerations.md",
+    "Domain 1/Principles of Information Security.md",
+    "Domain 1/Intellectual Property.md",
+    "Domain 1/Information Security Frameworks.md",
+    "Domain 1/Intellectual Property Laws/Patent.md"
+  ]
+}
