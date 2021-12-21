@@ -3,7 +3,6 @@ title: __CISSP__
 aliases: [CISSP]
 tags: []
 plugin-prettier: true
-url: /CISSP
 ---
 
 # CISSP Domains
